@@ -1,0 +1,17 @@
+milling-tool-life-fusion/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── LICENSE
+│
+├── data/
+│   └── raw/
+│       └── FeatureAndMetadata_Milling.csv
+│
+├── notebooks/
+│   └── 01_exploracion.ipynb
+│
+└── results/
+    └── figures/
+        └── (se irán guardando aquí)
